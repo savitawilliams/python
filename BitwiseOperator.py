@@ -2,7 +2,7 @@
 # a in binary 1010
 # b in binary 0100
 a=10
-b=4
+b=2
 
 print(a & b)
 
