@@ -1,7 +1,7 @@
 #Compairsion operators
 
-a=15
-b=16
+a=13
+b=33
 
 print(a<b)
 
